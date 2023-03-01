@@ -1,4 +1,4 @@
-<nav role="navigation">
+<nav>
     <div class="companyName">
         <a href="/">Sree Lalitha Trading Company</a>
     </div>
@@ -13,7 +13,7 @@
 <style>
     nav {
         display: flex;
-        background-color: #0362fc;
+        background-color: #5D9BFD;
     }
 
     .companyName a {
@@ -21,7 +21,7 @@
     }
 
     nav a {
-        color: #0362fc;
+        color: #5D9BFD;
 		padding: 0 0.5rem;
 		font-weight: bold;
 	}
@@ -36,7 +36,7 @@
 
     .navLinks {
 		text-align: right;
-		background-color: #fcc603;
+		background-color: #FFF3C2;
 	}
 
 
